@@ -4,7 +4,7 @@ Git tutorial page.
  local:         file change, add, (first staging ), commit, push
  central repo:  file change, commit
  conflict merge function
-
+# merge conflict steps
 create branch
 switch to the new branch
 do the changes
