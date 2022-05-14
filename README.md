@@ -13,3 +13,6 @@ merge the main to the current branch
 fix if there are any conflicts
 push to the chnges.
 create pull request
+
+
+ git hub gist.
